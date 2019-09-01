@@ -3,8 +3,11 @@
 Controls: 
 
 Up/W: Rotate
+
 Down/S: Drop
+
 Left/A: Move Left
+
 Right/D: Move Right
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
