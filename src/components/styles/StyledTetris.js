@@ -8,10 +8,14 @@ export const StyledTetrisWrapper = styled.div`
     background: url(${bgImage}) #000;
     background-size: cover;
     overflow: hidden;
+    font-family: Arial;
+    text-align: center;
+    color: white;
 `
 
 export const StyledTetris = styled.div`
     display: flex;
+    justify-content: center;
     align-items: flex-start;
     padding: 40px;
     margin: 0 auto;
