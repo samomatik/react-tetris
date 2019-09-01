@@ -1,6 +1,6 @@
 # Tetris Clone
 
-###Controls: 
+### Controls: 
 
 Up/W: Rotate
 
